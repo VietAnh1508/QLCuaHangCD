@@ -1,0 +1,18 @@
+D:\C#\QL Cua hang CD\QLCuaHangCD\BUS\bin\Debug\BUS.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\BUS\bin\Debug\BUS.pdb
+D:\C#\QL Cua hang CD\QLCuaHangCD\BUS\obj\Debug\BUS.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\BUS\obj\Debug\BUS.pdb
+D:\C#\QL Cua hang CD\QLCuaHangCD\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\C#\QL Cua hang CD\QLCuaHangCD\BUS\bin\Debug\DAO.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\BUS\bin\Debug\DAO.pdb
+D:\C#\QL Cua hang CD\QLCuaHangCD\BUS\bin\Debug\DTO.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\BUS\bin\Debug\DTO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\BUS\bin\Debug\BUS.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\BUS\bin\Debug\BUS.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\BUS\bin\Debug\DAO.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\BUS\bin\Debug\DTO.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\BUS\bin\Debug\DAO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\BUS\bin\Debug\DTO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\C#\QLCuaHangCD\QLCuaHangCD\BUS\obj\Debug\BUS.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\BUS\obj\Debug\BUS.pdb

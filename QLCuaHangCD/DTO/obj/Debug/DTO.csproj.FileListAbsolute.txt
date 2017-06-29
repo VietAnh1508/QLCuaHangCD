@@ -1,0 +1,9 @@
+D:\C#\QL Cua hang CD\QLCuaHangCD\DTO\bin\Debug\DTO.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\DTO\bin\Debug\DTO.pdb
+D:\C#\QL Cua hang CD\QLCuaHangCD\DTO\obj\Debug\DTO.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\DTO\obj\Debug\DTO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\DTO\bin\Debug\DTO.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\DTO\bin\Debug\DTO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\DTO\obj\Debug\DTO.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\DTO\obj\Debug\DTO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\C#\QL Cua hang CD\QLCuaHangCD\DAO\bin\Debug\DAO.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\DAO\bin\Debug\DAO.pdb
+D:\C#\QL Cua hang CD\QLCuaHangCD\DAO\obj\Debug\DAO.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\DAO\obj\Debug\DAO.pdb
+D:\C#\QL Cua hang CD\QLCuaHangCD\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\C#\QL Cua hang CD\QLCuaHangCD\DAO\bin\Debug\DTO.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\DAO\bin\Debug\DTO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\DAO\bin\Debug\DAO.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\DAO\bin\Debug\DAO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\DAO\bin\Debug\DTO.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\DAO\bin\Debug\DTO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\C#\QLCuaHangCD\QLCuaHangCD\DAO\obj\Debug\DAO.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\DAO\obj\Debug\DAO.pdb

@@ -1,0 +1,36 @@
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\bin\Debug\GUI.exe.config
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\bin\Debug\GUI.exe
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\bin\Debug\GUI.pdb
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\obj\Debug\GUI.exe
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\obj\Debug\GUI.pdb
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\obj\Debug\GUI.fDangNhap.resources
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\obj\Debug\GUI.fDoiMatKhau.resources
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\obj\Debug\GUI.fQuanLy.resources
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\bin\Debug\BUS.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\bin\Debug\DAO.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\bin\Debug\BUS.pdb
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\bin\Debug\DAO.pdb
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\obj\Debug\GUI.fManHinhChinh.resources
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\bin\Debug\DTO.dll
+D:\C#\QL Cua hang CD\QLCuaHangCD\GUI\bin\Debug\DTO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\bin\Debug\GUI.exe.config
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\bin\Debug\GUI.exe
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\bin\Debug\GUI.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\bin\Debug\BUS.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\bin\Debug\DTO.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\bin\Debug\DAO.dll
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\bin\Debug\BUS.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\bin\Debug\DTO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\bin\Debug\DAO.pdb
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\obj\Debug\GUI.fDangNhap.resources
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\obj\Debug\GUI.fDoiMatKhau.resources
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\obj\Debug\GUI.fManHinhChinh.resources
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\obj\Debug\GUI.fQuanLy.resources
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\obj\Debug\GUI.exe
+D:\C#\QLCuaHangCD\QLCuaHangCD\GUI\obj\Debug\GUI.pdb
